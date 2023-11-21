@@ -1,17 +1,19 @@
-<meta name="google-site-verification" content="lxoI01DDocV6pU07UeRTlOjytGuGbkqJslc3v-DZ1Ls" />
+# Hi there 👋
+My name is Matthijs Lanser, I'm a freelance software engineer from Netherlands 🇳🇱, based in Prague 🇨🇿.
 
-### Hi there 👋
-<!--
-**matthijslanser/matthijslanser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and technologies I use
+![](https://img.shields.io/badge/C%23-grey?style=for-the-badge)
+![](https://img.shields.io/badge/.NET%20Core-grey?style=for-the-badge)
+![](https://img.shields.io/badge/EF%20Core-grey?style=for-the-badge)
+![](https://img.shields.io/badge/SQL-grey?style=for-the-badge)
+![](https://img.shields.io/badge/Typescript-grey?style=for-the-badge)
+![](https://img.shields.io/badge/Javascript-grey?style=for-the-badge)
+![](https://img.shields.io/badge/Node.js-grey?style=for-the-badge)
+![](https://img.shields.io/badge/Angular-grey?style=for-the-badge)
+![](https://img.shields.io/badge/SCSS-grey?style=for-the-badge)
+![](https://img.shields.io/badge/Microsoft_Azure-grey?style=for-the-badge)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me
+[![](https://img.shields.io/badge/My_website-333?style=for-the-badge&logo=googlechrome&logoColor=fff)](https://matthijs.cz/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/matthijslanser/)
+[![](https://img.shields.io/badge/Email-C71610?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:m@tthijs.cz) 
