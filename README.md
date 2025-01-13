@@ -6,12 +6,15 @@ My name is Matthijs Lanser, I'm a freelance software engineer from Netherlands ð
 ![](https://img.shields.io/badge/.NET%20Core-grey?style=for-the-badge)
 ![](https://img.shields.io/badge/EF%20Core-grey?style=for-the-badge)
 ![](https://img.shields.io/badge/SQL-grey?style=for-the-badge)
+![](https://img.shields.io/badge/PostgreSQL-grey?style=for-the-badge)
 ![](https://img.shields.io/badge/Typescript-grey?style=for-the-badge)
 ![](https://img.shields.io/badge/Javascript-grey?style=for-the-badge)
 ![](https://img.shields.io/badge/Node.js-grey?style=for-the-badge)
-![](https://img.shields.io/badge/Angular-grey?style=for-the-badge)
+![](https://img.shields.io/badge/React-grey?style=for-the-badge)
 ![](https://img.shields.io/badge/SCSS-grey?style=for-the-badge)
 ![](https://img.shields.io/badge/Microsoft_Azure-grey?style=for-the-badge)
+![](https://img.shields.io/badge/Google_Cloud_Platform-grey?style=for-the-badge)
+![](https://img.shields.io/badge/Docker-grey?style=for-the-badge)
 
 ## How to reach me
 [![](https://img.shields.io/badge/My_website-333?style=for-the-badge&logo=googlechrome&logoColor=fff)](https://matthijs.cz/)
