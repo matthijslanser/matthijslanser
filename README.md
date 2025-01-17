@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Matthijs Lanser, I'm a freelance software engineer from Netherlands 🇳🇱, based in Prague 🇨🇿.
+My name is Matthijs Lanser, I'm a freelance software engineer from Netherlands 🇳🇱, based in Prague 🇨🇿. I have a big passion for turning ideas into real products. Over the last few years, I've been able to do this while working on and leading multiple complex international projects.
 
 ## Languages and technologies I use
 ![](https://img.shields.io/badge/C%23-grey?style=for-the-badge)
