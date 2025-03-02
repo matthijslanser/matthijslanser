@@ -10,6 +10,7 @@ My name is Matthijs Lanser, I'm a freelance software engineer from Netherlands ð
 ![](https://img.shields.io/badge/Typescript-grey?style=for-the-badge)
 ![](https://img.shields.io/badge/Javascript-grey?style=for-the-badge)
 ![](https://img.shields.io/badge/Node.js-grey?style=for-the-badge)
+![](https://img.shields.io/badge/Next.js-grey?style=for-the-badge)
 ![](https://img.shields.io/badge/React-grey?style=for-the-badge)
 ![](https://img.shields.io/badge/SCSS-grey?style=for-the-badge)
 ![](https://img.shields.io/badge/Microsoft_Azure-grey?style=for-the-badge)
